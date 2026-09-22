@@ -1,0 +1,2 @@
+user="adm"
+pass=123
