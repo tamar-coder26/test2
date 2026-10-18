@@ -1,5 +1,7 @@
 this is some text file
+<<<<<<< HEAD
 second line...
+add text in this file
 anthoer line
 more one line
 
